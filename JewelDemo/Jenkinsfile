@@ -17,7 +17,7 @@ pipeline {
                    [
                         artifactId: 'thbs',
                        classifier: '',
-                       file: 'Spring-DevOps/JewelDemo/target/JewelDemo-0.0.1-SNAPSHOT.jar',
+                       file: 'JewelDemo/target/JewelDemo-0.0.1-SNAPSHOT.jar',
                       type: 'jar'
                  ]
              ],
